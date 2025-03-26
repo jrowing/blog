@@ -5,6 +5,7 @@ author: "Joe"
 tags: Education
 excerpt_separator: <!--more-->
 ---
+
 # Low consequence working
 One of the great joys of becoming a leader in education is the enforced time spent watching other people teach. Teaching is the most magpie of professions, with ideas stolen from left and right and in my first blog in a long time I pay tribute to a colleague...<!--more-->
 
