@@ -1,15 +1,8 @@
 ---
 layout: post
 title: "About"
-author: "Chester"
+author: "Joe"
 permalink: /about/
 ---
 
-A friend of mine writes short stories. One sunny day, I asked if he wanted a website to showcase his works and he agreed. I decided to use GitHub Pages to host his site. That way he wouldn't have to buy a domain and a server.
-
-While doing some research up on GitHub Pages, I accidentally chanced upon this _simple, blog-aware, static site generator_ called [Jekyll](https://jekyllrb.com/) which works really well with GitHub Pages. I figured it would do just fine for my friend and I set about searching for a pretty theme. I wanted a theme with a _book-ish_ vibe. Unfortunately, most of the themes were too modern. Eventually, I caved and begun working on my own theme. With the help of [Poole](https://github.com/poole/poole), the Jekyll Butler, I was able to build **Tale**.
-
-## Contribute
-Feel free to create an issue or make a pull request on [GitHub](https://github.com/chesterhow/tale).
-
-Thanks for reading!
+Joe is the Deputy Headteacher at Exeter Maths School where these days he is responsible for teaching and learning and timetabling. An experienced teacher and a graduate of the Universities of Southampton and Durham, Joe has taught in some of the leading schools in both the state and private sector. He is a keen cyclist and a lover of the great outdoors, but mostly has a passion for practical physics and a love of teaching that truly inspires his students.
