@@ -1,8 +1,8 @@
 # Site settings
 title:          JRowing
 description:    "Some things from my brain"
-baseurl:        "/"
-url:            "https://jrowing.com/blog"
+baseurl:        "/blog/"
+url:            "https://jrowing.com/"
 
 # Google Analytics
 google_analytics: UA—XXXXXXXX-X
